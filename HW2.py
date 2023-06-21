@@ -2,11 +2,10 @@
 # Определите минимальное число монеток, которые нужно перевернуть, чтобы все монетки были повернуты вверх одной и той же стороной.
 # Выведите минимальное количество монет, которые нужно перевернуть
 
-# G_count = coins.count('G')
-# R_count = coins.count('R')
-    
+# def min_coin_flips(coins):
+#     G_count = coins.count('G')
+#     R_count = coins.count('R')
 #     return min(G_count, R_count)
-
 
 # coins = ['G', 'R', 'G', 'G', 'R', 'R', 'G']
 # min_flips = min_coin_flips(coins)
@@ -44,3 +43,5 @@
 # N = 100
 # print("Целые степени двойки, не превосходящие", N)
 # print_powers_of_two(N)
+
+
